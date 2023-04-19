@@ -22,6 +22,7 @@ function App() {
 const router = createBrowserRouter([
   {
     path: "/",
+    errorElement: <h1>error</h1>,
     element: (
       <>
         <Header />
