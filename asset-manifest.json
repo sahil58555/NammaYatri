@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NammaYatri/static/css/main.5d97343a.css",
-    "main.js": "/NammaYatri/static/js/main.213fb9d5.js",
+    "main.js": "/NammaYatri/static/js/main.bc6476b3.js",
     "static/js/787.952391c5.chunk.js": "/NammaYatri/static/js/787.952391c5.chunk.js",
     "static/media/autoDriverWeb.png": "/NammaYatri/static/media/autoDriverWeb.4725eb63f42156fdb7b7.png",
     "index.html": "/NammaYatri/index.html",
     "main.5d97343a.css.map": "/NammaYatri/static/css/main.5d97343a.css.map",
-    "main.213fb9d5.js.map": "/NammaYatri/static/js/main.213fb9d5.js.map",
+    "main.bc6476b3.js.map": "/NammaYatri/static/js/main.bc6476b3.js.map",
     "787.952391c5.chunk.js.map": "/NammaYatri/static/js/787.952391c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d97343a.css",
-    "static/js/main.213fb9d5.js"
+    "static/js/main.bc6476b3.js"
   ]
 }
